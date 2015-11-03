@@ -55,6 +55,17 @@
 			]
 		},
 		{
+			"name": "NativeScript Snippets",
+			"details": "https://github.com/tsvetan-ganev/nativescript-sublime-snippets",
+			"labels": ["auto-complete", "snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/SublimeText/NaturalDocs",
 			"releases": [
 				{
@@ -100,6 +111,16 @@
 				{
 					"sublime_text": "*",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Neka Theme",
+			"details": "https://github.com/dempfi/Neka-Theme",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
 				}
 			]
 		},
@@ -239,6 +260,17 @@
 				{
 					"sublime_text": "<3000",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "New Moon Color Scheme",
+			"details": "https://github.com/taniarascia/new-moon-sublime",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
 				}
 			]
 		},
@@ -468,6 +500,17 @@
 			]
 		},
 		{
+			"name": "NoTutorial",
+			"details": "https://github.com/chadnewbry/NoTutorial",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"platforms": ["osx"],
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "NP-Complete",
 			"labels": ["completions"],
 			"details": "https://github.com/Nax/sublime-np-complete",
@@ -551,7 +594,7 @@
 			"releases": [
 				{
 					"sublime_text": "*",
-					"branch": "master"
+					"tags": true
 				}
 			]
 		},
@@ -623,7 +666,7 @@
 		},
 		{
 			"name": "Numix Theme",
-			"details": "https://github.com/Zetch/sublime-text-numix",
+			"details": "https://github.com/nauzethc/sublime-text-numix",
 			"labels": ["numix", "theme"],
 			"releases": [
 				{

@@ -350,6 +350,28 @@
 			]
 		},
 		{
+			"name": "React ES6 Snippets",
+			"details": "https://github.com/mboperator/sublime-react-es6",
+			"labels": ["snippets", "jsx", "es6", "react"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "React Templates",
+			"details": "https://github.com/talpor/sublime-rt",
+			"labels": ["language syntax", "RT"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "react-native-snippets",
 			"details": "https://github.com/Shrugs/react-native-snippets",
 			"labels": ["snippets", "react", "native", "react-native", "jsx"],
@@ -431,6 +453,17 @@
 				{
 					"sublime_text": "<3000",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Reaktoro",
+			"details": "https://bitbucket.org/reaktoro/reaktoro-sublimeplugin",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
 				}
 			]
 		},
@@ -535,6 +568,17 @@
 			"releases": [
 				{
 					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Refactor",
+			"details": "https://github.com/Delermando/Refactor",
+			"labels": ["refactor", "code review", "code formatting","php"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
 					"tags": true
 				}
 			]
@@ -759,6 +803,17 @@
 			]
 		},
 		{
+			"name": "Resesif Color Scheme",
+			"details": "https://github.com/carloscuesta/resesif",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Resize Active Group",
 			"details": "https://github.com/FunkMonkey/SublimeResizeActiveGroup",
 			"releases": [
@@ -884,6 +939,17 @@
 			]
 		},
 		{
+			"name": "RhetosDSL",
+			"details": "https://github.com/Hugibeer/RhetosDSLSyntax",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Riot Tag",
 			"details": "https://github.com/crisward/sublime-tag",
 			"labels": ["language syntax"],
@@ -974,6 +1040,21 @@
 			"releases": [
 				{
 					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "RSBIDE",
+			"details": "https://github.com/mom1/RSBIDE",
+			"readme": "https://raw.githubusercontent.com/mom1/RSBIDE/master/readme.md",
+			"issues": "https://github.com/mom1/RSBIDE/issues",
+			"labels": ["ide", "r-style", "rsl", "rs-balance", "auto-complete", "build system", "language syntax", "snippets", "code navigation"],
+			"author": "MOM",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"platforms": ["windows"],
 					"tags": true
 				}
 			]
@@ -1080,7 +1161,7 @@
 			"releases": [
 				{
 					"sublime_text": ">=3000",
-					"platforms": ["osx", "linux"],
+					"platforms": ["osx", "linux", "windows"],
 					"tags": true
 				}
 			]
@@ -1232,6 +1313,17 @@
 			]
 		},
 		{
+			"name": "Rubycritic",
+			"details": "https://github.com/pedrocarmona/SublimeRubycritic",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"platforms": ["osx", "linux"],
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "RubyEval",
 			"details": "https://github.com/jugyo/SublimeRubyEval",
 			"releases": [
@@ -1363,7 +1455,7 @@
 		},
 		{
 			"name": "Rust",
-			"details": "https://github.com/jhasse/sublime-rust",
+			"details": "https://github.com/rust-lang/sublime-rust",
 			"releases": [
 				{
 					"sublime_text": "*",

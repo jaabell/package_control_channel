@@ -262,6 +262,17 @@
 			]
 		},
 		{
+			"name": "Agola Color Schemes",
+			"details": "https://github.com/UnderlineWords/Agola-Color-Schemes",
+			"labels": ["color scheme"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "AGSBS Markdown Helper",
 			"details": "https://github.com/TUD-INF-IAI-MCI/AgsbsMarkdownPlugin",
 			"releases": [
@@ -782,8 +793,30 @@
 			]
 		},
 		{
+			"name": "APICloudLoader",
+			"details": "https://github.com/APICloud-com/Sublime-APICloud-Loader",
+			"labels": ["android", "apicloud"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "APICloudPackage",
+			"details": "https://github.com/APICloud-com/Sublime-APICloud-Package",
+			"labels": ["android", "apicloud"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "APICloudSnippets",
-			"details": "https://github.com/taxusyew/apicloud-sublime-snippet",
+			"details": "https://github.com/APICloud-com/Sublime-APICloud-Snippet",
 			"labels": ["javascript", "snippets"],
 			"releases": [
 				{
@@ -1091,7 +1124,7 @@
 			"releases": [
 				{
 					"sublime_text": "*",
-					"branch": "master"
+					"tags": true
 				}
 			]
 		},
@@ -1124,6 +1157,17 @@
 				{
 					"sublime_text": ">=3000",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "AsciiConverter",
+			"details": "https://github.com/penginryo/AsciiConverterPlugin",
+			"labels": ["ASCII", "binary", "converter", "decimal", "hexadecimal"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
 				}
 			]
 		},
@@ -1201,6 +1245,17 @@
 			]
 		},
 		{
+			"name": "Asterisk Extended Language",
+			"details": "https://github.com/shakvaal/AEL_syntax",
+			"labels": ["language syntax", "asterisk", "AEL"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Async Mindset Snippets",
 			"details": "https://github.com/punkave/sublime-async-mindset",
 			"labels": ["snippets"],
@@ -1244,6 +1299,18 @@
 			]
 		},
 		{
+			"name": "ATS2 Build System",
+			"details": "https://github.com/ShengYun/ATS2-Build-SublimeText3",
+			"labels": ["build system"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"platforms": ["osx", "linux"],
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Attribute Grammar",
 			"details": "https://github.com/TiborIntelSoft/SublimeUUAGC",
 			"labels": ["language syntax"],
@@ -1282,6 +1349,16 @@
 				{
 					"sublime_text": "<3000",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "Auto Fold",
+			"details": "https://github.com/fermads/sublime-autofold",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
 				}
 			]
 		},
@@ -1432,7 +1509,11 @@
 			"releases": [
 				{
 					"sublime_text": "<3000",
-					"branch": "master"
+					"tags": "st2-"
+				},
+				{
+					"sublime_text": ">=3000",
+					"tags": "st3-"
 				}
 			]
 		},

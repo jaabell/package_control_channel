@@ -78,6 +78,17 @@
 			]
 		},
 		{
+			"name": "Jam Language",
+			"details": "https://github.com/BenjaminSchaaf/jam-sublime-syntax",
+			"labels": ["jam", "language syntax", "build"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Jamon",
 			"details": "https://github.com/drhayes/SublimeJamon",
 			"releases": [
@@ -322,6 +333,17 @@
 			]
 		},
 		{
+			"name": "JavaScript Snippets for IMWeb",
+			"details": "https://github.com/imweb/sublime-js-snippets",
+			"labels": ["snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "JavaScript Ultimate",
 			"details": "https://github.com/JoshuaWise/javascript-ultimate",
 			"labels": ["language syntax", "snippets", "javascript"],
@@ -475,11 +497,11 @@
 		},
 		{
 			"name": "Jinja2",
-			"details": "https://github.com/mitsuhiko/jinja2-tmbundle",
+			"details": "https://github.com/kudago/jinja2-tmbundle",
 			"releases": [
 				{
 					"sublime_text": "*",
-					"branch": "master"
+					"tags": true
 				}
 			]
 		},
@@ -570,6 +592,17 @@
 				{
 					"sublime_text": "*",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "jQuery Mobile Demos",
+			"details": "https://github.com/coderyang/jQueryMobileDemos",
+			"labels": ["jquery mobile"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
 				}
 			]
 		},
@@ -861,6 +894,17 @@
 					"sublime_text": "*",
 					"platforms": "osx",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "JSTL autocomplete",
+			"details": "https://github.com/eparisio/st3-jstl-snippet-autocomplete",
+			"labels": ["snippets", "auto-complete"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
 				}
 			]
 		},

@@ -71,6 +71,19 @@
 			]
 		},
 		{
+			"name": "Padawan (PHP completion)",
+			"details": "https://github.com/mkusher/padawan.sublime",
+			"issues": "https://github.com/mkusher/padawan.sublime/issues",
+			"labels": ["auto-complete", "php"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"platforms": ["osx", "linux"],
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "PageLines Snippets",
 			"details": "https://github.com/Tmeister/PageLinesSnippets",
 			"releases": [
@@ -225,6 +238,17 @@
 		{
 			"details": "https://github.com/ilyakam/ParentalControl",
 			"labels": ["formatting", "text manipulation"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Parva Syntax",
+			"details" : "https://github.com/muskatel/Parva_Syntax",
+			"labels": ["language syntax"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -421,6 +445,17 @@
 			]
 		},
 		{
+			"name": "PEGjs LiveScript",
+			"details": "https://github.com/tgrospic/sublime-pegjs-livescript",
+			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Pelican",
 			"details": "https://github.com/jsliang/sublime-pelican",
 			"releases": [
@@ -449,6 +484,27 @@
 			"name": "PEPE Assembly",
 			"details": "https://github.com/PatriqDesigns/Sublime-PEPE-Assembly",
 			"labels": ["language syntax", "snippets"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Perfect Code",
+			"details": "https://github.com/b0xw00d/PerfectCodeColorScheme",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "Perfectionist",
+			"details": "https://github.com/yisibl/sublime-perfectionist",
+			"labels": ["CSS", "beautify", "format", "formatting"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -632,6 +688,16 @@
 			]
 		},
 		{
+			"name": "PHP Comment Wrap",
+			"details": "https://bitbucket.org/bey0nd_g0dlike/phpcommentwrap",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "PHP Companion",
 			"details": "https://github.com/erichard/SublimePHPCompanion",
 			"releases": [
@@ -645,6 +711,17 @@
 			"name": "PHP Completions Kit",
 			"details": "https://github.com/gerardroche/sublime-phpck",
 			"labels": ["php", "auto-complete", "completions"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PHP Constructors",
+			"details": "https://bitbucket.org/jltorresm/sublime-php-constructors",
+			"labels": ["php", "constructor", "snippets", "code generation", "auto-complete", "text manipulation"],
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -879,6 +956,16 @@
 			]
 		},
 		{
+			"name": "PHPLOC",
+			"details": "https://github.com/pr0ggy/SublimePHPLOC",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "PhpNamespace",
 			"details": "https://github.com/gl3n/sublime-php-namespace",
 			"releases": [
@@ -889,6 +976,17 @@
 				{
 					"sublime_text": ">=3000",
 					"branch": "ST3"
+				}
+			]
+		},
+		{
+			"name": "PhpNinJaManual",
+			"details": "https://github.com/yangweijie/SublimePHPNinJaManual",
+			"labels": ["php manual"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
 				}
 			]
 		},
@@ -1154,6 +1252,17 @@
 			"releases": [
 				{
 					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "polyfill",
+			"details": "https://github.com/gerardroche/sublime-polyfill",
+			"labels": ["commands", "ctrlp", "file open", "navigation", "nerdtree", "sidebar", "toggles", "vim"],
+			"releases": [
+				{
+					"sublime_text": ">=3095",
 					"tags": true
 				}
 			]
@@ -1581,6 +1690,17 @@
 			]
 		},
 		{
+			"name": "ProjectCompletions",
+			"details": "https://github.com/bordaigorl/sublime-project-completions",
+			"labels": ["completions", "snippets", "project"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "ProjectFiles",
 			"details": "https://github.com/shagabutdinov/sublime-project-files",
 			"donate": "https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-donations.md",
@@ -1663,6 +1783,16 @@
 			"name": "Prototypo Syntax Highlighting",
 			"details": "https://github.com/byte-foundry/prototypo-sublimetext",
 			"labels": ["language syntax"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
+			"name": "PSLHighlight",
+			"details": "https://github.com/jewelzqiu/PSLHighlight",
 			"releases": [
 				{
 					"sublime_text": "*",
@@ -1798,6 +1928,16 @@
 			]
 		},
 		{
+			"name": "PyFusion",
+			"details": "https://github.com/pdilyard/pyfusion",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"details": "https://github.com/biermeester/Pylinter",
 			"labels": ["linting"],
 			"releases": [
@@ -1818,12 +1958,33 @@
 			]
 		},
 		{
+			"name": "PyNorm",
+			"details": "https://bitbucket.org/JeanMarcosDaRosa/pynorm_subl",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "PyQt Search",
 			"details": "https://github.com/achayan/sublimePyQtSearch",
 			"releases": [
 				{
 					"sublime_text": "<3000",
 					"branch": "master"
+				}
+			]
+		},
+		{
+			"name": "PyQt5 Completions",
+			"details": "https://github.com/tushortz/PyQt5-Completions",
+			"labels": ["python","completions", "auto-complete", "completion", "autocomplete", "snippet", "Completion"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
 				}
 			]
 		},
